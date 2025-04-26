@@ -459,7 +459,7 @@
     <string name="settings_disaster_auto">自動災難</string>
     <string name="notify_firenodp">你嘅城市着咗火！ 建立消防局嚟救火。</string>
     <string name="draft_destroyedtile_title">廢墟</string>
-    <string name="draft_destroyedtile_text">呢度曾經好美，但只是曾經，我們需要把廢墟清理掉</string>
+    <string name="draft_destroyedtile_text">呢度曾經好靚，但係係只係曾經，我哋需要清理咗呢個廢墟</string>
     <string name="disaster_fire_title">火災</string>
     <string name="disaster_fire_text">燒掉一切！在指定地點放火</string>
     <string name="disaster_fire_cmdtext">燃燒!</string>
@@ -670,7 +670,7 @@
     <string name="draft_police01_text">保障社會治安，降低犯罪率</string>
     <string name="disaster_riot_title">暴動</string>
     <string name="disaster_riot_text">引發一場只能由特種部隊來平息的暴動。</string>
-    <string name="disaster_riot_cmdtext">放佢們出嚟！</string>
+    <string name="disaster_riot_cmdtext">放佢哋出嚟！</string>
     <string name="draft_beach00_title">海灘</string>
     <string name="draft_beach00_text">冇嘢比喺海灘上過一日更舒服了。</string>
     <string name="draft_biergarten00_title">啤酒花園</string>
@@ -715,7 +715,7 @@
     <string name="createcity_cityauthor">市長:</string>
     <string name="about_homepage">主頁</string>
     <string name="oome_title">儲存空間不足</string>
-    <string name="oome_text">我們非常抱歉，但係你嘅裝置上似乎唔夠儲存空間畀西奧小鎮好喎。</string>
+    <string name="oome_text">我們非常抱歉，但係你嘅裝置上似乎唔夠儲存空間畀西奧小鎮喎。</string>
     <string name="createcity_trees">帶有樹木</string>
     <string name="dialog_closecity_text">是否要在離開城市之前保存進度？</string>
     <string name="dialog_closecity_title">離開城市</string>
@@ -779,7 +779,7 @@
     <string name="about_thanks">特別鳴謝</string>
     <string name="about_community">以及其他嘅社區成員</string>
     <string name="dialog_tosandbox_title">沙盒模式</string>
-    <string name="dialog_tosandbox_text">確定切換城市至沙盒模式？\n一步不能撤回</string>
+    <string name="dialog_tosandbox_text">確定切換城市至沙盒模式？\n一切不能撤回</string>
     <string name="dialog_tosandbox_cmdconvert">確認切換</string>
     <string name="requirement_rank">至少達到 %1$s 等級(%2$,d)</string>
     <string name="ca_wastedisposal_text">Waste disposal: %1$,d/%2$,d</string>
@@ -842,7 +842,7 @@
     <string name="topic_relax">放鬆，這只是一個遊戲</string>
     <string name="topic_cats">貓咪太可愛啦</string>
     <string name="topic_force">願原力與你同喺</string>
-    <string name="topic_plugins"> 你可以喺https://forum.theotown.com上獲攞免費插件</string>
+    <string name="topic_plugins"> 你可以喺https://forum.theotown.com上安裝免費插件</string>
     <string name="topic_page">来 www.theotown.com訪問我們</string>
     <string name="topic_habitants">你可以達到 1,000,000</string>
     <string name="ci_statistics_title">統計</string>
@@ -862,7 +862,7 @@
     <string name="draft_school03_text">一個仲大嘅高校以容納更多嘅學生。</string>
     <string name="gamemode_easy_desc">喺呢個遊戲模式中，你會喺遊戲開始得到一大筆錢以降低遊戲難度。初始資金:100 K₮ </string>
     <string name="gamemode_middle_desc">預設遊戲模式。 你可以得到一筆金錢，用佢嚟建設你嘅夢想都市吧。初始資金: 50 K₮ </string>
-    <string name="gamemode_hard_desc">你係西奧小鎮嘅資深經營玩家？ 呢個遊戲模式適合你。 你只會得到一小筆金錢，係難度最高嘅模式。</string>
+    <string name="gamemode_hard_desc">你係西奧小鎮嘅資深經營玩家？ 呢個遊戲模式適合你。 你只會得到少少錢，係難度最高嘅模式。</string>
     <string name="dialog_ffwd_title">快進</string>
     <string name="dialog_ffwd_text">遊戲加速 %1$,d 日.</string>
     <string name="dialog_ffwd_cmdplayad">視頻廣告</string>
@@ -888,7 +888,7 @@
     <string name="dialog_redeempromo_text">呢啲鑽石似乎係屬於你嘅</string>
     <string name="dialog_present_cmdad">雙倍獎勵</string>
     <string name="dialog_connectroad_title">連接其他城市</string>
-    <string name="dialog_connectroad_text">你想將呢條路連接到其他城市啊？</string>
+    <string name="dialog_connectroad_text">你想將呢條路連接到其他城市嗎？</string>
     <string name="settings_autosave">自動儲存</string>
     <string name="region_unlock">解鎖</string>
     <string name="dialog_unlockcity_title">解鎖</string>
@@ -944,7 +944,7 @@
     <string name="dialog_notenoughmoney_text">冇足夠嘅金錢可以購買呢個商品\n\n你想即刻得到所缺嘅%1$s </string>
     <string name="notify_fullhospital">呢間醫院唔夠床位。 我哋必須再建一個。</string>
     <string name="dialog_rate_title">鍾意呢個遊戲嗎?</string>
-    <string name="dialog_rate_text">就畀我們評分吧，好快就得㗎啦！</string>
+    <string name="dialog_rate_text">就畀我哋一個評分吧，好快就得㗎啦！</string>
     <string name="dialog_rate_cmdok">我鍾意</string>
     <string name="dialog_rate_cmdcancel">我唔鍾意</string>
     <string name="dialog_feedback_title">向我們提供反饋</string>
@@ -983,8 +983,8 @@
     <string name="menu_hideui">隱藏界面</string>
     <string name="ci_neighbor_title">鄰里商業</string>
     <string name="ci_neighbor_notavailable">暫時不可用</string>
-    <string name="ci_neighbor_import">載入</string>
-    <string name="ci_neighbor_export">載出</string>
+    <string name="ci_neighbor_import">匯入</string>
+    <string name="ci_neighbor_export">匯出</string>
     <string name="energy">%1$,dkW</string>
     <string name="water">%1$,dL/h</string>
     <string name="ci_neighbor_power">電</string>
@@ -1048,7 +1048,7 @@
     <string name="tut_build05">而家我們需要把居民區同發電裝置連接起身</string>
     <string name="tut_build06">點擊太陽能電池板。</string>
     <string name="tut_build07">好，電嘅問題解決左，但係等等，居………居民是不是想要點水?</string>
-    <string name="tut_build08">為咗滿足這些刁民嘅需求，畀我們嚟建造一座水塔啦。 </string>
+    <string name="tut_build08">為咗滿足這些市民嘅需求，畀我們嚟建造一座水塔啦。 </string>
     <string name="tut_build09">建造水塔會花費一些時間。 與其等待，不如主動出擊，用一些鑽石来加速。</string>
     <string name="tut_build10">我們需要一些水管嚟將水輸送畀居民們，多建幾個以備不時之需。</string>
     <string name="tut_build11">做得好，我們嘅刁民們有水有電咗，但係...... 我們好似仲缺點乜嘢。</string>
@@ -1075,7 +1075,7 @@
     <string name="tut_build33">哦，嗰度多咗一個公園。刪除左佢啦。</string>
     <string name="tut_build34">做得好，而家我想畀你睇吓嘅城市等級</string>
     <string name="tut_build35">擴大你嘅城市並解決災難以達到下一個等級。 透過升級，你可以解鎖更多建築物。</string>
-    <string name="tut_build36">關於災難，好遺憾，佢們係會發生嘅... 呢度你有啲可以操縱緊急用車嘅工具。</string>
+    <string name="tut_build36">關於災難，好遺憾，佢哋係會發生嘅... 呢度你有啲可以操縱緊急用車嘅工具。</string>
     <string name="tut_build37">有時候，我們需要不同嘅視野，點擊呢度睇下。</string>
     <string name="tut_present00">我將我知嘅全部都話畀你晒，最後一點：係畀你嘅禮物。</string>
     <string name="tut_present01">你每日都可以得到一份禮物。</string>
@@ -1157,10 +1157,10 @@
     <string name="draft_rnk_planet_medium_title">行星</string>
     <string name="draft_rnk_planet_big_title">大星球</string>
     <string name="draft_rnk_planet_large_title">特大星球</string>
-    <string name="draft_rnk_solar_system_small_title">小太陽係</string>
-    <string name="draft_rnk_solar_system_medium_title">太陽係</string>
-    <string name="draft_rnk_solar_system_big_title">大太陽係</string>
-    <string name="draft_rnk_solar_system_large_title">超級太陽係</string>
+    <string name="draft_rnk_solar_system_small_title">小太陽系</string>
+    <string name="draft_rnk_solar_system_medium_title">太陽系</string>
+    <string name="draft_rnk_solar_system_big_title">大太陽系</string>
+    <string name="draft_rnk_solar_system_large_title">超級太陽系</string>
     <string name="draft_rnk_universe_small_title">小宇宙</string>
     <string name="draft_rnk_universe_medium_title">宇宙</string>
     <string name="draft_rnk_universe_big_title">大宇宙</string>
@@ -1209,7 +1209,7 @@
     <string name="airport_airplanes">飛機</string>
     <string name="airport_virtual_lane">尚未分配</string>
     <string name="airport_lane_no_airplane">尚無飛機</string>
-    <string name="topic_lightside">來到光明嘅一面，我們有~冰淇淋</string>
+    <string name="topic_lightside">來到光明嘅一面，我們有~雪糕</string>
     <string name="topic_handmade">每個像素都係辛辛苦苦啲上去嘅</string>
     <string name="topic_lunch">午餐意味住關門時間</string>
     <string name="topic_watching">兩棵蒜喺睇住你</string>
@@ -1287,15 +1287,15 @@
     <string name="draft_feature_starter_pack00_text">入門套餐包括:</string>
     <string name="pluginerror_cmdchecksyntax">Check syntax online</string>
 
-    <string name="fb_login_title">連接面書</string>
-    <string name="fb_login_text">請登錄以同步你嘅賬號信息</string>
+    <string name="fb_login_title">連接 Facebook</string>
+    <string name="fb_login_text">請登入以同步你嘅賬號信息</string>
     <string name="fb_login_cancel">取消</string>
     <string name="toast_seed_copy">種子複製成功</string>
     <string name="toast_recordingid_copy">錄製ID成功</string>
     <string name="draft_ap_road00_title">機場運輸道路</string>
     <string name="draft_ap_road00_text">使用這條道路嚟連接登機口同滑行道</string>
     <string name="requirement_upgrade">需要升級 %1$s</string>
-    <string name="requirement_upgrade_invert">不可以與 %1$s疊加</string>
+    <string name="requirement_upgrade_invert">唔可以與 %1$s疊加</string>
     <string name="draft_deco_chr_present00_title">禮物</string>
     <string name="draft_deco_chr_present00_text">只係一份禮物。 嘗試點擊佢。</string>
     <string name="settings_touch_rotate">用兩根手指旋轉</string>
@@ -1395,7 +1395,7 @@
     <string name="busgame_capacity">承載能力</string>
     <string name="busgame_capacity_unit">人次</string>
     <string name="busgame_income">收入</string>
-    <string name="busgame_currency">巴士幣</string>
+    <string name="busgame_currency">巴士飛</string>
     <string name="busgame_upgrade">升級</string>
     <string name="busgame_upgrade_title">lv. %d</string>
     <string name="busgame_unlock">解鎖</string>
@@ -1413,7 +1413,7 @@
     <string name="dialog_dbuilding_text">你確定要在此修建此建築啊?</string>
     <string name="dialog_performance_title">表現</string>
     <string name="draft_brandenburgertor00_title">勃蘭登堡門</string>
-    <string name="draft_brandenburgertor00_text">勃蘭登堡門係建於18世纪嘅德國地標。 佢位於柏林。</string>
+    <string name="draft_brandenburgertor00_text">勃蘭登堡門係建於18世紀嘅德國地標。 佢位於柏林。</string>
     <string name="control_accept">接受</string>
     <string name="control_dismiss">拋棄</string>
     <string name="settings_citytasks">任務</string>
@@ -1434,7 +1434,7 @@
     <string name="settings_saveforscreenshot">截圖時保存</string>
     <string name="draft_eiffeltower00_title">巴黎鐵塔</string>
     <string name="draft_eiffeltower00_text">巴黎鐵塔係法國最著名嘅地標。 該塔高324米，喺1889年完工。</string>
-    <string name="dialog_wb_text02">你唔喺度嘅時候%1$s 賺取咗呢啲身家, 睇個广告或者支付鑽石拿走\n\n%2$s</string>
+    <string name="dialog_wb_text02">你唔喺度嘅時候%1$s 賺取咗呢啲身家, 睇個廣告或者支付鑽石拿走\n\n%2$s</string>
     <string name="dialog_wb_cmdtake">睇廣告拿走</string>
     <string name="dialog_wb_cmdforfeit">不管佢了</string>
     <string name="dialog_diamondtool_title">完成建造</string>
@@ -1597,7 +1597,7 @@
     <string name="gallery">畫廊</string>
     <string name="gallery_upload">上傳截圖</string>
     <string name="dialog_galleryupload_title">正在上傳</string>
-    <string name="dialog_galleryupload_text">我正在上傳你嘅截圖 :)</string>
+    <string name="dialog_galleryupload_text">正在上傳你嘅截圖 :)</string>
     <string name="gallery_recent">最新</string>
     <string name="gallery_trends">熱門</string>
     <string name="gallery_own">擁有</string>
@@ -1731,7 +1731,7 @@
 
     <string name="privacy_policy">私隱政策</string>
     <string name="dialog_privacy_title">私隱政策</string>
-    <string name="dialog_privacy_text">嗨，我哋更新左我哋嘅私隱政策。 請花點時間查看佢。</string>
+    <string name="dialog_privacy_text">嗨，我哋更新咗我哋嘅私隱政策。 請花點時間讀下佢。</string>
     <string name="dialog_privacy_cmdopen">打開</string>
     <string name="dialog_privacy_cmdlater">好嘅，同意</string>
     <string name="settings_drawzones">繪製區域</string>
